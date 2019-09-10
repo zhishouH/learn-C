@@ -1,14 +1,14 @@
-#include <stdio.h>
-void buttler(void);
+#include<stdio.h>
+void butler(void);
 int main(void)
 {
-	printf("I will summom the butler function.\n");
+	printf("I will summon the butler function.\n");
 	butler();
-	printf("Yes. Bring me some tea and writeable DVDs.\n");
+	printf("Yes. Bring me some tea and weiteable DVDs.\n");
 	
-	return 0;
+	return 0; 
 }
 void butler(void)
 {
-	printf("You rang,sir?\n");
+	printf("You rang, sir?\n");
 }
